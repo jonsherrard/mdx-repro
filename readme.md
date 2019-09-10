@@ -6,7 +6,7 @@
 
 # Repro Steps
 
-`npm start`
+`npm install && npm start`
 
 1. Edit `# Test 1` -> `# Test 1!` // Observe update
 2. Scroll to slide 2
